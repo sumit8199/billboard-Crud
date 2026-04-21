@@ -1,2 +1,2 @@
 # billboard-Crud
-CRUD operations in Spring Boot
+CRUD operations in Spring Boot in PLSQL
